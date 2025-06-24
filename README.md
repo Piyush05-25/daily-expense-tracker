@@ -18,4 +18,4 @@ This project helps you track your daily expenses, visualize patterns, and predic
 |------------|-------------|--------|
 | 2025-06-01 | Food        | 12.50  |
 | 2025-06-01 | Transport   | 5.00   |
-| ...        | ...         | ...    |
+| ...        | ...         | ...    |"# daily-expense-tracker" 
