@@ -7,7 +7,7 @@ from predictor import predict_expenses
 
 st.set_page_config(page_title="Daily Expense Tracker", layout="wide")
 
-st.title("📊 Daily Expense Tracker & Analyzer")
+st.title("Daily Expense Tracker & Analyzer")
 
 uploaded_file = st.file_uploader("Upload your daily expenses CSV", type="csv")
 
